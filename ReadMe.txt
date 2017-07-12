@@ -1,9 +1,5 @@
-CS542 Design Patterns
-Fall 2016
-PROJECT Assignment3 README FILE
+README FILE
 
-Due Date: <Friday, October 27, 2016>
-Submission Date: <Friday, October 27, 2016>
 Author(s): Sriram Krishnan,prateek dobriyal
 e-mail(s): skrishn5@binghamton.edu,pdobriy1@binghamton.edu
 
